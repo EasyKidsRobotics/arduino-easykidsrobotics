@@ -29,7 +29,7 @@ menu.LORAWAN_PREAMBLE_LENGTH=LoRaWan Preamble Length
 ### DO NOT PUT BOARDS ABOVE THE OFFICIAL ESPRESSIF BOARDS! ###
 ##############################################################
 
-3in1easykids.name=3in1EasyKids Robot Kit
+3in1easykids.name=3in1EasyKidsRobot
 
 3in1easykids.bootloader.tool=esptool_py
 3in1easykids.bootloader.tool.default=esptool_py
